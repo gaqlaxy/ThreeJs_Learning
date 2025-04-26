@@ -22,6 +22,8 @@ mesh.position.set(0.7,-0.6,1);
 // mesh.scale.y = 0.5;
 // mesh.scale.z = 0.5;
 mesh.scale.set(1.5,0.5,0.5);
+
+mesh.rotation.z = 2;
 scene.add(mesh)
 
 /**
